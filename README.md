@@ -1,4 +1,7 @@
 # bl602nutcracker1
+
+[UPDATE: Read the article "Reverse Engineering WiFi on RISC-V BL602"](https://lupyuen.github.io/articles/wifi)
+
 This is Apache Licence 2.0 RE code for the Nutcracker Effort.
 This code is not perfect, it is the code I obtained.
 I hope you put it to good use.
